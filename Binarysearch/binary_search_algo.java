@@ -6,7 +6,7 @@ public class binary_search_algo {
 
       
         
-            System.out.println(BinarySearch(arr, 0));
+            System.out.println(BinarySearch(arr, 570));
         }
 
     static int BinarySearch(int[] arr , int target) {

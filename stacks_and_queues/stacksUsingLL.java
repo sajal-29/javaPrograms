@@ -33,7 +33,7 @@ public class stacksUsingLL {
             System.out.println(top.data);
             top = top.next;
         }
-        
+    
         
 
     }

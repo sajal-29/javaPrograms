@@ -1,4 +1,4 @@
-package sorting;
+package practice;
 import java.util.Arrays;
 public class demoSelection {
     public static void main(String[] args) {
